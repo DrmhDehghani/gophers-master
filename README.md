@@ -7,8 +7,8 @@ The images and art-work in this repository are under [CC0 license](https://creat
 
 However, if you do use something, you are encouraged to:
 
-* tweet about the used, remixed or printed result @egonelbre
-* submit new ideas via twitter @egonelbre
+* tweet about the used, remixed or printed result @masterdehghani
+* submit new ideas via instagram @masterdehghani
 * request some sketch to be vectorized
 
 Or if you like to directly support me:
